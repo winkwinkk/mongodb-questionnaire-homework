@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ title }} · 问序</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/app.css') }}">
+  <script src="{{ url_for('static', filename='js/app.js') }}" defer></script>
+</head>
+<body data-page="{{ page }}" data-survey-id="{{ survey_id|default('') }}">
+{% if page not in ['login','register'] %}
+<aside class="sidebar">
+  <a class="brand" href="/dashboard"><span class="brand-icon">问</span>问序<span class="brand-en">WENXU</span></a>
+  <p class="nav-label">工作空间</p>
+  <a class="nav-item {% if page == 'dashboard' %}active{% endif %}" href="/dashboard"><span>▦</span>我的问卷</a>
+  <a class="nav-item {% if page == 'editor' %}active{% endif %}" href="/surveys/new"><span>＋</span>创建问卷</a>
+  <div class="sidebar-note"><span class="tiny-label">让每个回答都有意义</span><p>从一个好问题开始，<br>收集真实的声音。</p><span class="note-line"></span></div>
+  <div class="account"><span class="avatar" aria-hidden="true">我</span><span id="account-name">我的账号</span><button id="logout" class="text-button">退出</button></div>
+</aside>
+{% endif %}
+<main class="{% if page in ['login','register'] %}auth-main{% else %}main{% endif %}">
+  {% if page not in ['login','register'] %}<header class="topbar"><span>问卷工作台 <span class="crumb">/ {{ title }}</span></span><span class="topbar-tag">每一个问题，都值得认真回答</span></header>{% endif %}
+  <div id="notice" class="notice" role="status" aria-live="polite" hidden></div>
+  {% block content %}{% endblock %}
+</main>
+<dialog id="confirm-dialog"><form method="dialog"><h2>确认操作</h2><p id="confirm-text"></p><div class="actions"><button value="cancel" class="button secondary">取消</button><button value="confirm" class="button">确认</button></div></form></dialog>
+</body></html>

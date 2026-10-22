@@ -1,0 +1,5 @@
+{% extends 'base.html' %}{% block content %}
+<section class="content"><div class="page-heading"><div><span class="eyebrow">你的提问，从这里开始</span><h1>我的问卷<span class="accent">。</span></h1><p class="muted">整理每一个问题，收集每一份真实反馈。</p></div><a class="button" href="/surveys/new">＋ 创建问卷</a></div>
+<div class="metrics"><div><span class="metric-label">全部问卷</span><strong id="count-all">—</strong><small>每一份好奇的起点</small></div><div><span class="metric-label">收集中</span><strong id="count-published">—</strong><small>正在等待新的声音</small></div><div><span class="metric-label">草稿</span><strong id="count-draft">—</strong><small>值得继续打磨的问题</small></div></div>
+<div class="list-toolbar"><div class="tabs" role="group" aria-label="筛选状态"><button class="tab active" data-filter="all">全部问卷</button><button class="tab" data-filter="published">收集中</button><button class="tab" data-filter="draft">草稿</button><button class="tab" data-filter="closed">已关闭</button></div><input id="search" class="search" type="search" aria-label="搜索问卷" placeholder="搜索问卷标题…"></div><div id="survey-list" class="survey-grid"><p class="muted">正在加载问卷…</p></div></section>
+{% endblock %}
