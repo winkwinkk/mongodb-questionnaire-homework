@@ -1,0 +1,160 @@
+test_existing_collection_updated_without_deleting_data (test_backend_regressions.InitializationTests.test_existing_collection_updated_without_deleting_data) ... ok
+test_failure_exits_nonzero_and_closes_client (test_backend_regressions.InitializationTests.test_failure_exits_nonzero_and_closes_client) ... ok
+test_main_initializes_all_schemas_and_indexes (test_backend_regressions.InitializationTests.test_main_initializes_all_schemas_and_indexes) ... ok
+test_missing_collection_created_with_validator (test_backend_regressions.InitializationTests.test_missing_collection_created_with_validator) ... ok
+test_add_question_returns_saved_document_and_rejects_non_draft (test_backend_regressions.InputTests.test_add_question_returns_saved_document_and_rejects_non_draft) ... ok
+test_auth_rejects_non_object_json (test_backend_regressions.InputTests.test_auth_rejects_non_object_json) ... ok
+test_jump_rejects_non_string_operator_before_database_access (test_backend_regressions.InputTests.test_jump_rejects_non_string_operator_before_database_access) ... ok
+test_question_rejects_invalid_input_before_database_access (test_backend_regressions.InputTests.test_question_rejects_invalid_input_before_database_access) ... ok
+test_existing_jump_examples (test_backend_regressions.ValidationTests.test_existing_jump_examples) ... ok
+test_existing_validation_examples (test_backend_regressions.ValidationTests.test_existing_validation_examples) ... ok
+test_number_integer_and_finite_checks (test_backend_regressions.ValidationTests.test_number_integer_and_finite_checks) ... ok
+test_optional_answer_still_enforces_minimum (test_backend_regressions.ValidationTests.test_optional_answer_still_enforces_minimum) ... ok
+test_optional_multiple_choice_can_be_skipped (test_backend_regressions.ValidationTests.test_optional_multiple_choice_can_be_skipped) ... ok
+test_required_multiple_choice_rejects_empty_array (test_backend_regressions.ValidationTests.test_required_multiple_choice_rejects_empty_array) ... ok
+test_allow_repeat_is_independent_of_anonymous_and_owner_controlled (test_mongodb_backend.MongoDBBackendTests.test_allow_repeat_is_independent_of_anonymous_and_owner_controlled) ... ok
+test_api_create_jump_submit_statistics_and_owner_isolation (test_mongodb_backend.MongoDBBackendTests.test_api_create_jump_submit_statistics_and_owner_isolation) ... ok
+test_backfill_preserves_legacy_answers_and_blocks_known_users (test_mongodb_backend.MongoDBBackendTests.test_backfill_preserves_legacy_answers_and_blocks_known_users) ... ok
+test_concurrent_question_additions_have_unique_complete_order (test_mongodb_backend.MongoDBBackendTests.test_concurrent_question_additions_have_unique_complete_order) ... ok
+test_concurrent_same_account_submissions_store_only_one_response (test_mongodb_backend.MongoDBBackendTests.test_concurrent_same_account_submissions_store_only_one_response) ... ok
+test_default_no_repeat_including_anonymous_and_unique_index (test_mongodb_backend.MongoDBBackendTests.test_default_no_repeat_including_anonymous_and_unique_index) ... ok
+test_initialization_is_repeatable_and_enforces_schema_and_indexes (test_mongodb_backend.MongoDBBackendTests.test_initialization_is_repeatable_and_enforces_schema_and_indexes) ... ok
+test_interrupted_submission_replays_first_payload_without_loss (test_mongodb_backend.MongoDBBackendTests.test_interrupted_submission_replays_first_payload_without_loss) ... ok
+test_manage_returns_complete_configuration_only_to_owner (test_mongodb_backend.MongoDBBackendTests.test_manage_returns_complete_configuration_only_to_owner) ... ok
+test_next_multiple_jump_and_explicit_optional_skip (test_mongodb_backend.MongoDBBackendTests.test_next_multiple_jump_and_explicit_optional_skip) ... ok
+test_next_rejects_bypasses_stale_answers_and_invalid_requests (test_mongodb_backend.MongoDBBackendTests.test_next_rejects_bypasses_stale_answers_and_invalid_requests) ... ok
+test_next_single_and_numeric_jumps_then_explicit_submit (test_mongodb_backend.MongoDBBackendTests.test_next_single_and_numeric_jumps_then_explicit_submit) ... ok
+test_question_edit_delete_and_rule_removal_preserve_draft_integrity (test_mongodb_backend.MongoDBBackendTests.test_question_edit_delete_and_rule_removal_preserve_draft_integrity) ... ok
+test_read_next_and_submit_share_login_status_and_deadline_checks (test_mongodb_backend.MongoDBBackendTests.test_read_next_and_submit_share_login_status_and_deadline_checks) ... ok
+test_startup_recovers_accepted_submission_after_survey_closes (test_mongodb_backend.MongoDBBackendTests.test_startup_recovers_accepted_submission_after_survey_closes) ... ok
+test_assets_and_health_are_available (test_pages.PageTests.test_assets_and_health_are_available) ... ok
+test_pages_require_login_and_render_after_login (test_pages.PageTests.test_pages_require_login_and_render_after_login) ... ok
+test_public_auth_pages_and_safe_return_path (test_pages.PageTests.test_public_auth_pages_and_safe_return_path) ... ok
+test_empty_prefix_starts_at_first_question (test_response_flow.ResponseFlowTests.test_empty_prefix_starts_at_first_question) ... ok
+test_jump_and_complete_have_same_path_as_final_submission (test_response_flow.ResponseFlowTests.test_jump_and_complete_have_same_path_as_final_submission) ... ok
+test_missing_optional_answers_not_saved_in_final_mode (test_response_flow.ResponseFlowTests.test_missing_optional_answers_not_saved_in_final_mode) ... ok
+test_optional_question_requires_explicit_skip_in_partial_mode (test_response_flow.ResponseFlowTests.test_optional_question_requires_explicit_skip_in_partial_mode) ... ok
+test_required_error_identifies_question (test_response_flow.ResponseFlowTests.test_required_error_identifies_question) ... ok
+test_shared_availability_checks (test_response_flow.ResponseFlowTests.test_shared_availability_checks) ... ok
+test_skipped_future_and_foreign_answers_are_rejected (test_response_flow.ResponseFlowTests.test_skipped_future_and_foreign_answers_are_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 39 tests in 9.361s
+
+OK
+users：校验规则配置成功
+数据库操作失败：test failure
+四个集合的校验规则及索引初始化完成！
+users：集合及校验规则创建成功
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_dc58a893e469477784d635fba9782513
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_90a847c4a0794d349e68863b093b384e
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_c69dcc3eaedf47aaa979327ecbdf74e0
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_16f8066d2a1b4c31a947ccb7a7bc0f79
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_01fa4f673f0046d18b335eb9593b0f61
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_9415109890f14066902589072764a33b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_f79f31c0577d442ca5dc1b082ab1e8e7
+必要索引创建成功。
+users：校验规则配置成功
+surveys：校验规则配置成功
+responses：校验规则配置成功
+participations：校验规则配置成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_f79f31c0577d442ca5dc1b082ab1e8e7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_61f0fb9139af4f668c68aead21b2e54d
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_cf354ee08f2048db8e88ae3c0b5aea0e
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_69a05b22235d45c08f7d65be10342354
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_ae15fd2cf2d840029c7b530f1810385b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_51a0759dbcf34a86a919e7260ac6728c
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_d3554449814344b1a79ac4258336b014
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_8f9bb6c292e44aedbc14e3c19a1318f8
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_4e3d5003e8434629be3365f208ef3fee
+必要索引创建成功。
