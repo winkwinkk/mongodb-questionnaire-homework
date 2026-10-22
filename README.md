@@ -158,6 +158,5 @@ JSON接口使用同源Session Cookie；有请求体时发送application/json，I
 - [关键逻辑说明](docs/key-logic.md)
 - [测试用例与执行记录](docs/测试用例.md)
 - [历史完整测试输出（2026年10月20日）](docs/test-results-web-2026-10-20.txt)
-- [第一阶段项目报告（Schema完善修订版）](docs/项目报告_Schema完善修订版.md)
-- [原项目报告](docs/项目报告.md)
+- [项目报告](docs/项目报告.md)
 - [AI 使用日志与说明](docs/ai-usage.md)
