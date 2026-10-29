@@ -1,0 +1,9 @@
+<div class="content-fields">
+  <div class="two-cols"><label>题型<select name="type"><option value="single_choice">单选题</option><option value="multiple_choice">多选题</option><option value="text">文本填空</option><option value="number">数字填空</option></select></label><label class="inline-check"><input name="required" type="checkbox" checked>默认必答</label></div>
+  <label>题干<input name="questionTitle" required maxlength="5000" placeholder="你想了解什么？"></label>
+  <div data-fields="choices"><label>选项</label><div class="option-editor"></div><button type="button" class="text-button" data-add-option>＋ 添加选项</button><p class="hint">修改已有选项文字会保留它的标识；删除后重新添加会生成新标识。</p></div>
+  <div data-fields="multiple_choice" class="two-cols" hidden><label>最少选择<input name="minSelections" type="number" min="0" step="1" value="0"></label><label>最多选择<input name="maxSelections" type="number" min="0" step="1" placeholder="默认全部选项"></label></div>
+  <div data-fields="text" class="two-cols" hidden><label>最少字符<input name="minLength" type="number" min="0" step="1" value="0"></label><label>最多字符<input name="maxLength" type="number" min="0" step="1" value="1000"></label></div>
+  <div data-fields="number" hidden><div class="two-cols"><label>最小值<input name="min" type="number" step="any" placeholder="不限"></label><label>最大值<input name="max" type="number" step="any" placeholder="不限"></label></div><label class="inline-check"><input name="integerOnly" type="checkbox">只允许整数</label></div>
+  <div class="two-cols"><label>单位<input name="unit" maxlength="1000" placeholder="例如：岁、元、分"></label><label>统计语义<input name="semanticDescription" maxlength="1000" placeholder="例如：填写当天的周岁年龄"></label></div>
+</div>

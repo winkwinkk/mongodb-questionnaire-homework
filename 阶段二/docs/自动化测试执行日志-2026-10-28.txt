@@ -1,0 +1,909 @@
+Private MongoDB version: 8.3.11
+Deployment: standalone; random localhost port and temporary data directory
+RUN_MONGO_TESTS=1; all integration tests use random disposable databases
+
+users：校验规则配置成功
+数据库操作失败：test failure
+原有集合、题目版本、共享、题库及操作回执初始化完成！
+users：集合及校验规则创建成功
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_18c0002fb35640c395af47c19168e931
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_1e043e65080c457fbf2d288c270bf3c8
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_63625b6e5d12459b911f21bd1c3ffa5d
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_06bce58cdad648d2ae933381b03b426a
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_c039aa44fcf04fdb99ea0a57402be5ae
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_2148acb6605c4dcba5773326f4781314
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_393c6721c0eb4344a8732dc27a11fba7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_cd31531639024781a9b8acee0d3edb89
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_d2b1bf66ff114ce883ddc32d6b5a574b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_7babb684be6a479a9b9f2da587aa656b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_5e1a4742a29f44a4b87bc726bd189c82
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_d6ca06ccd5f247498cd1efd0802d5fd2
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_75adf46370c849b5be335b0300c6e4b1
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b0d5dbddd92c4c2780ce5320cd446087
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b92b5bdd779e446fab94da69b48bcffd
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_f586c1b7b9f042e589ec6de254a5097f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_5aaf54585609496c8e464231f386a44c
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_ae6b7f54ca274512ae3ce05a06e2df2d
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_8ad51d43885b40bdb094b19fb82a92aa
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_8cefc05d4f7e4e0597beb2a0b2dc7230
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_4cb93e0c1bb1471cb9656f19934a0c7f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_659bdc6435984f49bc4d8e794b1281bf
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_02013397f6af4c1cb5c00ffaedb120c7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_bf2937207a2b402eb092487cc83764b2
+必要索引创建成功。
+users：校验规则配置成功
+surveys：校验规则配置成功
+responses：校验规则配置成功
+participations：校验规则配置成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_bf2937207a2b402eb092487cc83764b2
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_115e46ffaec04a338017d99c1dd5615b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_a3ef0b0571324d24b10b1c2001e214c5
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_27efca1d3f364966b4e6dc5bd83485f2
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_0cbccfffc53e4fe1b880e1e1f5c04fa4
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_172a8a7e23794e1d9d1f9ff7057672e9
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_2124fbfeba274e878b3eed26759eaf93
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_a28fb167e43f403781e867d0803a5937
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_faa46ec2764c481196fe0fc90db3ebe6
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_caf698b994ed475da0e6911edb1bb596
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_68672e44578e44a4857dd2fb580ff960
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_50fe017f3eb346cd9a805557320dd616
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_fab78bad47c94a4ca2e9eb8a70d1e4db
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_aed3e0e9548c443ca72049d544f21bc9
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_affeea47a9114a65adfc334efa9201c6
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_ab2c8d98d68b45c8b0605856c6d02d0b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_2c953c4ec1044bcdb2917a18fd5cd50e
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_94e6e9a7c6654d7e945f0e4cf29276b7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_798056f1eb2040f0b3ba71d7e6a9436a
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_65c9b8357bb647a292c5b398210f99f7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_d866564d6d6348fda9b34c33692863bd
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_d9ad6cf08d6542249281b633a20a978f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_328b174e4d144686ab3b2483c3b73b85
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_acc2d6d2beeb4dc890d3c06e36767086
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_408375a8a28d40519c1838e6d2b911c7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_94e58bc6854b44e49c97d31129242cf0
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b198aa301f3d4e47aeab05ffd3422178
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_4cf96fc57cae491bbf73ba5a31ce798f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_0c46e7cd0ccd4e4284f67a50e46a5d85
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_cfcfebc264b847d488442e5d3dea6c80
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_c9bd77fc33e84f5a8174477236ce8925
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_0c66de77496a4fc4abf9f1bc69cbbc52
+必要索引创建成功。
+users：校验规则配置成功
+surveys：校验规则配置成功
+responses：校验规则配置成功
+participations：校验规则配置成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_0c66de77496a4fc4abf9f1bc69cbbc52
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_802d0ceb8f15474f8d41c7befd28608f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_1b6076a1698c4814ba74b9377b13d908
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_98e5bc50d7194a6e9402c46404a21ce2
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_c0b2c319b96242e085aeb1f59c112a7d
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_0633c7c2560d48059ee84fb4d5a14141
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_5a933f9fc04544769e69e94b8161107d
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_cc108e0e349d42f383b343701cc228ab
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_21704160dad343338f653938d1067c9b
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_7d67aab1182b431ea8f9944fbc574fdc
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_6eaa4fa2e6ab41d7a3971925880798e7
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_d579a3949e6244e2ba8fcfbbe98530fd
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_3df4d90e182a4cd6aa754a4aba57023f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_9c2febaef28041a7a2f9f17b4823b588
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_fc0bd0c5e0a44189aaf1d098864560f6
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_eed6ec7afb72483e85216ab5e2045497
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b3228ee7b0734486a9d12789d41ce6c8
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_e352e056e1544137b624e0e40c9a0044
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_2f55b0479cf84cdd9eb58e203529f16d
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_f96e0eba3a434367a6bd9c594d5aef69
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_22f39b1b379344f5a63a116e3eefccf9
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_438fadcbcd4c4e9aae9274bbae7b3025
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_78255397578841a2bafafc4ad2135231
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_1c72bd98da6e45e18cd0158f702e2f53
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b80726fcbe3f4b9f8257bbcb755bef14
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b68a35e6756f4bb58e21717d6f5f0a3f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_97b2cd2acf844bcf9a2c5f4c4f447a94
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_9fe1715cc263439ca9ea62285caa546a
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_9691ff9d1e594b2bab54b86ef9ae5105
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_fcb23be75e2d4f698ad95601ef0f1a3e
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_b6bc00a1b0bd45df93618e1647e85088
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_19ba082990484434a7cb8bd97405a6a2
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_ed5618d2db394d92b0e8b4987802a4ea
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_54282a9aca4d4329bb247f0af9741156
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_bbf4a52e313142e2b4ce188a6d1300e3
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_ac834922ee234316a8328a5603f299c5
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_469322c1a72149899c4d4ff9a69dd2f4
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_fd5ad964925942d788b6e53dc6c845ae
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_86ca624c15844760bdd66947ed0a8ea0
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_22446b214b91438eb7429a17f55e6d3c
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_f9b063bcb2514004a7c9c105262e3f4f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_3894118879664911b61ebdc58e8040c8
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_c4942a57406d40b49399c2e6b815e9ba
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_80f10aca2c1e404d97a054422e1dd48c
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_c5059c213931441eb2b879bac1998403
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_fc8b29cef87c48a9a08f979893d7b65f
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_78882b86fa9c42b2a81eb9e6f7072209
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_ab534102776c454daa466a8e661d0fe1
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_9a65bfb91b884d64a3bdcf30156bc380
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_2f331dfcfe1f46169cee226c3361545c
+必要索引创建成功。
+users：集合及校验规则创建成功
+surveys：集合及校验规则创建成功
+responses：集合及校验规则创建成功
+participations：集合及校验规则创建成功
+MongoDB 连接成功！
+数据库名称：questionnaire_test_64bfb16405b645a0ae4fe29ae270d3eb
+必要索引创建成功。
+
+test_existing_collection_updated_without_deleting_data (test_backend_regressions.InitializationTests.test_existing_collection_updated_without_deleting_data) ... ok
+test_failure_exits_nonzero_and_closes_client (test_backend_regressions.InitializationTests.test_failure_exits_nonzero_and_closes_client) ... ok
+test_main_initializes_all_schemas_and_indexes (test_backend_regressions.InitializationTests.test_main_initializes_all_schemas_and_indexes) ... ok
+test_missing_collection_created_with_validator (test_backend_regressions.InitializationTests.test_missing_collection_created_with_validator) ... ok
+test_add_question_returns_saved_document_and_rejects_non_draft (test_backend_regressions.InputTests.test_add_question_returns_saved_document_and_rejects_non_draft) ... ok
+test_auth_rejects_non_object_json (test_backend_regressions.InputTests.test_auth_rejects_non_object_json) ... ok
+test_jump_rejects_non_string_operator_before_database_access (test_backend_regressions.InputTests.test_jump_rejects_non_string_operator_before_database_access) ... ok
+test_question_rejects_invalid_input_before_database_access (test_backend_regressions.InputTests.test_question_rejects_invalid_input_before_database_access) ... ok
+test_existing_jump_examples (test_backend_regressions.ValidationTests.test_existing_jump_examples) ... ok
+test_existing_validation_examples (test_backend_regressions.ValidationTests.test_existing_validation_examples) ... ok
+test_number_integer_and_finite_checks (test_backend_regressions.ValidationTests.test_number_integer_and_finite_checks) ... ok
+test_optional_answer_still_enforces_minimum (test_backend_regressions.ValidationTests.test_optional_answer_still_enforces_minimum) ... ok
+test_optional_multiple_choice_can_be_skipped (test_backend_regressions.ValidationTests.test_optional_multiple_choice_can_be_skipped) ... ok
+test_required_multiple_choice_rejects_empty_array (test_backend_regressions.ValidationTests.test_required_multiple_choice_rejects_empty_array) ... ok
+test_active_shared_access_copy_and_revoke (test_library.InMemoryLibraryTests.test_active_shared_access_copy_and_revoke) ... ok
+test_archived_question_and_logged_out_user_rejected (test_library.InMemoryLibraryTests.test_archived_question_and_logged_out_user_rejected) ... ok
+test_create_immutable_content_and_management_read (test_library.InMemoryLibraryTests.test_create_immutable_content_and_management_read) ... ok
+test_creation_failure_hidden_then_retry_preserves_payload (test_library.InMemoryLibraryTests.test_creation_failure_hidden_then_retry_preserves_payload) ... ok
+test_foreign_question_and_survey_are_protected (test_library.InMemoryLibraryTests.test_foreign_question_and_survey_are_protected) ... ok
+test_input_validation_and_source_forgery (test_library.InMemoryLibraryTests.test_input_validation_and_source_forgery) ... ok
+test_pointer_failure_then_startup_recovery_is_repeatable (test_library.InMemoryLibraryTests.test_pointer_failure_then_startup_recovery_is_repeatable) ... ok
+test_published_snapshots_cannot_be_imported_or_modified (test_library.InMemoryLibraryTests.test_published_snapshots_cannot_be_imported_or_modified) ... ok
+test_repeated_operation_replays_first_content (test_library.InMemoryLibraryTests.test_repeated_operation_replays_first_content) ... ok
+test_rule_conflict_blocks_version_switch_and_preserves_rule (test_library.InMemoryLibraryTests.test_rule_conflict_blocks_version_switch_and_preserves_rule) ... ok
+test_same_operation_concurrent_requests_create_one_question (test_library.InMemoryLibraryTests.test_same_operation_concurrent_requests_create_one_question) ... ok
+test_save_legacy_question_keeps_original_unlinked (test_library.InMemoryLibraryTests.test_save_legacy_question_keeps_original_unlinked) ... ok
+test_snapshot_instances_distinct_and_answers_keep_instance_id (test_library.InMemoryLibraryTests.test_snapshot_instances_distinct_and_answers_keep_instance_id) ... ok
+test_source_edit_required_override_and_explicit_detach (test_library.InMemoryLibraryTests.test_source_edit_required_override_and_explicit_detach) ... ok
+test_switch_is_explicit_and_keeps_instance_identity (test_library.InMemoryLibraryTests.test_switch_is_explicit_and_keeps_instance_identity) ... ok
+test_version_mismatch_invalid_ids_and_null_rejected (test_library.InMemoryLibraryTests.test_version_mismatch_invalid_ids_and_null_rejected) ... ok
+test_active_shared_access_copy_and_revoke (test_library.RealLibraryTests.test_active_shared_access_copy_and_revoke) ... ok
+test_archived_question_and_logged_out_user_rejected (test_library.RealLibraryTests.test_archived_question_and_logged_out_user_rejected) ... ok
+test_create_immutable_content_and_management_read (test_library.RealLibraryTests.test_create_immutable_content_and_management_read) ... ok
+test_creation_failure_hidden_then_retry_preserves_payload (test_library.RealLibraryTests.test_creation_failure_hidden_then_retry_preserves_payload) ... ok
+test_foreign_question_and_survey_are_protected (test_library.RealLibraryTests.test_foreign_question_and_survey_are_protected) ... ok
+test_input_validation_and_source_forgery (test_library.RealLibraryTests.test_input_validation_and_source_forgery) ... ok
+test_pointer_failure_then_startup_recovery_is_repeatable (test_library.RealLibraryTests.test_pointer_failure_then_startup_recovery_is_repeatable) ... ok
+test_published_snapshots_cannot_be_imported_or_modified (test_library.RealLibraryTests.test_published_snapshots_cannot_be_imported_or_modified) ... ok
+test_real_schema_indexes_and_reinitialization (test_library.RealLibraryTests.test_real_schema_indexes_and_reinitialization) ... ok
+test_repeated_operation_replays_first_content (test_library.RealLibraryTests.test_repeated_operation_replays_first_content) ... ok
+test_rule_conflict_blocks_version_switch_and_preserves_rule (test_library.RealLibraryTests.test_rule_conflict_blocks_version_switch_and_preserves_rule) ... ok
+test_same_operation_concurrent_requests_create_one_question (test_library.RealLibraryTests.test_same_operation_concurrent_requests_create_one_question) ... ok
+test_save_legacy_question_keeps_original_unlinked (test_library.RealLibraryTests.test_save_legacy_question_keeps_original_unlinked) ... ok
+test_snapshot_instances_distinct_and_answers_keep_instance_id (test_library.RealLibraryTests.test_snapshot_instances_distinct_and_answers_keep_instance_id) ... ok
+test_source_edit_required_override_and_explicit_detach (test_library.RealLibraryTests.test_source_edit_required_override_and_explicit_detach) ... ok
+test_switch_is_explicit_and_keeps_instance_identity (test_library.RealLibraryTests.test_switch_is_explicit_and_keeps_instance_identity) ... ok
+test_version_mismatch_invalid_ids_and_null_rejected (test_library.RealLibraryTests.test_version_mismatch_invalid_ids_and_null_rejected) ... ok
+test_allow_repeat_is_independent_of_anonymous_and_owner_controlled (test_mongodb_backend.MongoDBBackendTests.test_allow_repeat_is_independent_of_anonymous_and_owner_controlled) ... ok
+test_api_create_jump_submit_statistics_and_owner_isolation (test_mongodb_backend.MongoDBBackendTests.test_api_create_jump_submit_statistics_and_owner_isolation) ... ok
+test_backfill_preserves_legacy_answers_and_blocks_known_users (test_mongodb_backend.MongoDBBackendTests.test_backfill_preserves_legacy_answers_and_blocks_known_users) ... ok
+test_concurrent_question_additions_have_unique_complete_order (test_mongodb_backend.MongoDBBackendTests.test_concurrent_question_additions_have_unique_complete_order) ... ok
+test_concurrent_same_account_submissions_store_only_one_response (test_mongodb_backend.MongoDBBackendTests.test_concurrent_same_account_submissions_store_only_one_response) ... ok
+test_default_no_repeat_including_anonymous_and_unique_index (test_mongodb_backend.MongoDBBackendTests.test_default_no_repeat_including_anonymous_and_unique_index) ... ok
+test_initialization_is_repeatable_and_enforces_schema_and_indexes (test_mongodb_backend.MongoDBBackendTests.test_initialization_is_repeatable_and_enforces_schema_and_indexes) ... ok
+test_interrupted_submission_replays_first_payload_without_loss (test_mongodb_backend.MongoDBBackendTests.test_interrupted_submission_replays_first_payload_without_loss) ... ok
+test_manage_returns_complete_configuration_only_to_owner (test_mongodb_backend.MongoDBBackendTests.test_manage_returns_complete_configuration_only_to_owner) ... ok
+test_next_multiple_jump_and_explicit_optional_skip (test_mongodb_backend.MongoDBBackendTests.test_next_multiple_jump_and_explicit_optional_skip) ... ok
+test_next_rejects_bypasses_stale_answers_and_invalid_requests (test_mongodb_backend.MongoDBBackendTests.test_next_rejects_bypasses_stale_answers_and_invalid_requests) ... ok
+test_next_single_and_numeric_jumps_then_explicit_submit (test_mongodb_backend.MongoDBBackendTests.test_next_single_and_numeric_jumps_then_explicit_submit) ... ok
+test_question_edit_delete_and_rule_removal_preserve_draft_integrity (test_mongodb_backend.MongoDBBackendTests.test_question_edit_delete_and_rule_removal_preserve_draft_integrity) ... ok
+test_read_next_and_submit_share_login_status_and_deadline_checks (test_mongodb_backend.MongoDBBackendTests.test_read_next_and_submit_share_login_status_and_deadline_checks) ... ok
+test_startup_recovers_accepted_submission_after_survey_closes (test_mongodb_backend.MongoDBBackendTests.test_startup_recovers_accepted_submission_after_survey_closes) ... ok
+test_assets_and_health_are_available (test_pages.PageTests.test_assets_and_health_are_available) ... ok
+test_pages_require_login_and_render_after_login (test_pages.PageTests.test_pages_require_login_and_render_after_login) ... ok
+test_public_auth_pages_and_safe_return_path (test_pages.PageTests.test_public_auth_pages_and_safe_return_path) ... ok
+test_question_identifier_is_escaped_in_page_attributes (test_pages.PageTests.test_question_identifier_is_escaped_in_page_attributes) ... ok
+test_append_only_audit_split_again_and_idempotent_old_retry (test_question_statistics.QuestionStatisticsTests.test_append_only_audit_split_again_and_idempotent_old_retry) ... ok
+test_archived_source_preserves_historical_stats (test_question_statistics.QuestionStatisticsTests.test_archived_source_preserves_historical_stats) ... ok
+test_bins_boundary_last_inclusive_and_overflow (test_question_statistics.QuestionStatisticsTests.test_bins_boundary_last_inclusive_and_overflow) ... ok
+test_choice_distribution_rejects_changed_options_and_counts_multiselect (test_question_statistics.QuestionStatisticsTests.test_choice_distribution_rejects_changed_options_and_counts_multiselect) ... ok
+test_concurrent_confirmations_one_winner_only (test_question_statistics.QuestionStatisticsTests.test_concurrent_confirmations_one_winner_only) ... ok
+test_configuration_requires_confirmation_reason_and_valid_revision (test_question_statistics.QuestionStatisticsTests.test_configuration_requires_confirmation_reason_and_valid_revision) ... ok
+test_defaults_do_not_merge_versions_and_weighted_mean_is_correct (test_question_statistics.QuestionStatisticsTests.test_defaults_do_not_merge_versions_and_weighted_mean_is_correct) ... ok
+test_distribution_can_merge_separately_from_mean (test_question_statistics.QuestionStatisticsTests.test_distribution_can_merge_separately_from_mean) ... ok
+test_empty_unmapped_invalid_and_duplicate_answers_are_excluded (test_question_statistics.QuestionStatisticsTests.test_empty_unmapped_invalid_and_duplicate_answers_are_excluded) ... ok
+test_failure_after_event_insert_recovers_with_same_operation (test_question_statistics.QuestionStatisticsTests.test_failure_after_event_insert_recovers_with_same_operation) ... ok
+test_group_overlap_unknown_metric_and_foreign_version_rejected (test_question_statistics.QuestionStatisticsTests.test_group_overlap_unknown_metric_and_foreign_version_rejected) ... ok
+test_independent_copy_answers_do_not_merge_into_original (test_question_statistics.QuestionStatisticsTests.test_independent_copy_answers_do_not_merge_into_original) ... ok
+test_invalid_bins_are_rejected (test_question_statistics.QuestionStatisticsTests.test_invalid_bins_are_rejected) ... ok
+test_lost_reply_after_pointer_update_is_idempotent (test_question_statistics.QuestionStatisticsTests.test_lost_reply_after_pointer_update_is_idempotent) ... ok
+test_owner_and_shared_user_only_see_their_own_surveys (test_question_statistics.QuestionStatisticsTests.test_owner_and_shared_user_only_see_their_own_surveys) ... ok
+test_pending_loser_is_not_audit_history_or_reapplied (test_question_statistics.QuestionStatisticsTests.test_pending_loser_is_not_audit_history_or_reapplied) ... ok
+test_pending_participations_without_responses_do_not_count (test_question_statistics.QuestionStatisticsTests.test_pending_participations_without_responses_do_not_count) ... ok
+test_preview_warnings_does_not_write_or_confirm (test_question_statistics.QuestionStatisticsTests.test_preview_warnings_does_not_write_or_confirm) ... ok
+test_real_submission_anonymous_and_repeated_keeps_source_identity (test_question_statistics.QuestionStatisticsTests.test_real_submission_anonymous_and_repeated_keeps_source_identity) ... ok
+test_revoked_user_cannot_enumerate_unused_versions (test_question_statistics.QuestionStatisticsTests.test_revoked_user_cannot_enumerate_unused_versions) ... ok
+test_same_operation_concurrent_retry_has_one_event (test_question_statistics.QuestionStatisticsTests.test_same_operation_concurrent_retry_has_one_event) ... ok
+test_same_question_two_instances_counts_one_submission (test_question_statistics.QuestionStatisticsTests.test_same_question_two_instances_counts_one_submission) ... ok
+test_schema_indexes_repeat_initialization_and_large_number_mean (test_question_statistics.QuestionStatisticsTests.test_schema_indexes_repeat_initialization_and_large_number_mean) ... ok
+test_tampered_snapshot_and_answer_source_not_included (test_question_statistics.QuestionStatisticsTests.test_tampered_snapshot_and_answer_source_not_included) ... ok
+test_text_per_version_only_and_excerpts_bounded (test_question_statistics.QuestionStatisticsTests.test_text_per_version_only_and_excerpts_bounded) ... ok
+test_unauthorized_and_unknown_return_404_and_login_required (test_question_statistics.QuestionStatisticsTests.test_unauthorized_and_unknown_return_404_and_login_required) ... ok
+test_units_ranges_missing_semantics_and_different_types_cannot_merge (test_question_statistics.QuestionStatisticsTests.test_units_ranges_missing_semantics_and_different_types_cannot_merge) ... ok
+test_usage_pagination_counts_whole_scope_and_validates_arguments (test_question_statistics.QuestionStatisticsTests.test_usage_pagination_counts_whole_scope_and_validates_arguments) ... ok
+test_usage_version_filter_requires_same_array_element (test_question_statistics.QuestionStatisticsTests.test_usage_version_filter_requires_same_array_element) ... ok
+test_empty_prefix_starts_at_first_question (test_response_flow.ResponseFlowTests.test_empty_prefix_starts_at_first_question) ... ok
+test_jump_and_complete_have_same_path_as_final_submission (test_response_flow.ResponseFlowTests.test_jump_and_complete_have_same_path_as_final_submission) ... ok
+test_missing_optional_answers_not_saved_in_final_mode (test_response_flow.ResponseFlowTests.test_missing_optional_answers_not_saved_in_final_mode) ... ok
+test_optional_question_requires_explicit_skip_in_partial_mode (test_response_flow.ResponseFlowTests.test_optional_question_requires_explicit_skip_in_partial_mode) ... ok
+test_required_error_identifies_question (test_response_flow.ResponseFlowTests.test_required_error_identifies_question) ... ok
+test_shared_availability_checks (test_response_flow.ResponseFlowTests.test_shared_availability_checks) ... ok
+test_skipped_future_and_foreign_answers_are_rejected (test_response_flow.ResponseFlowTests.test_skipped_future_and_foreign_answers_are_rejected) ... ok
+test_archive_blocks_new_grants_and_item_use_without_deleting_entries (test_sharing_banks.SharingBankTests.test_archive_blocks_new_grants_and_item_use_without_deleting_entries) ... ok
+test_bad_default_stays_unavailable_after_reauthorization (test_sharing_banks.SharingBankTests.test_bad_default_stays_unavailable_after_reauthorization) ... ok
+test_bank_items_are_private_and_do_not_grant_survey_statistics (test_sharing_banks.SharingBankTests.test_bank_items_are_private_and_do_not_grant_survey_statistics) ... ok
+test_bank_update_uses_revision_and_delete_is_non_cascading (test_sharing_banks.SharingBankTests.test_bank_update_uses_revision_and_delete_is_non_cascading) ... ok
+test_concurrent_grants_have_only_one_active_record (test_sharing_banks.SharingBankTests.test_concurrent_grants_have_only_one_active_record) ... ok
+test_concurrent_item_additions_are_unique (test_sharing_banks.SharingBankTests.test_concurrent_item_additions_are_unique) ... ok
+test_default_update_only_affects_future_snapshots_and_detects_stale_edit (test_sharing_banks.SharingBankTests.test_default_update_only_affects_future_snapshots_and_detects_stale_edit) ... ok
+test_default_version_belongs_to_question_and_select_cannot_override_it (test_sharing_banks.SharingBankTests.test_default_version_belongs_to_question_and_select_cannot_override_it) ... ok
+test_entry_removal_after_revocation_keeps_question_and_snapshot (test_sharing_banks.SharingBankTests.test_entry_removal_after_revocation_keeps_question_and_snapshot) ... ok
+test_existing_independent_copy_survives_revoke (test_sharing_banks.SharingBankTests.test_existing_independent_copy_survives_revoke) ... ok
+test_grant_by_username_and_validate_recipient (test_sharing_banks.SharingBankTests.test_grant_by_username_and_validate_recipient) ... ok
+test_logged_out_cannot_access_new_endpoints (test_sharing_banks.SharingBankTests.test_logged_out_cannot_access_new_endpoints) ... ok
+test_multiple_banks_and_owner_isolation (test_sharing_banks.SharingBankTests.test_multiple_banks_and_owner_isolation) ... ok
+test_pagination_and_input_errors (test_sharing_banks.SharingBankTests.test_pagination_and_input_errors) ... ok
+test_received_list_is_recipient_only_and_excludes_revoked (test_sharing_banks.SharingBankTests.test_received_list_is_recipient_only_and_excludes_revoked) ... ok
+test_recipient_reads_uses_but_cannot_manage_original (test_sharing_banks.SharingBankTests.test_recipient_reads_uses_but_cannot_manage_original) ... ok
+test_regrant_restores_existing_item_with_same_identity (test_sharing_banks.SharingBankTests.test_regrant_restores_existing_item_with_same_identity) ... ok
+test_revoke_and_regrant_keep_history_and_old_id_cannot_revoke_new (test_sharing_banks.SharingBankTests.test_revoke_and_regrant_keep_history_and_old_id_cannot_revoke_new) ... ok
+test_revoke_blocks_stale_item_and_direct_paths_without_breaking_snapshot (test_sharing_banks.SharingBankTests.test_revoke_blocks_stale_item_and_direct_paths_without_breaking_snapshot) ... ok
+test_same_question_in_multiple_banks_uses_independent_defaults (test_sharing_banks.SharingBankTests.test_same_question_in_multiple_banks_uses_independent_defaults) ... ok
+test_schema_partial_unique_and_repeat_initialization (test_sharing_banks.SharingBankTests.test_schema_partial_unique_and_repeat_initialization) ... ok
+test_wrong_question_and_stranger_cannot_revoke (test_sharing_banks.SharingBankTests.test_wrong_question_and_stranger_cannot_revoke) ... ok
+test_aba_pointer_change_detected_by_revision (test_versions.VersionTests.test_aba_pointer_change_detected_by_revision) ... ok
+test_archive_during_accepted_operation_preserves_history_without_adoption (test_versions.VersionTests.test_archive_during_accepted_operation_preserves_history_without_adoption) ... ok
+test_bad_inputs_and_operation_kind_reuse (test_versions.VersionTests.test_bad_inputs_and_operation_kind_reuse) ... ok
+test_cleanup_failure_retries_do_not_duplicate_receipts (test_versions.VersionTests.test_cleanup_failure_retries_do_not_duplicate_receipts) ... ok
+test_failure_after_reservation_replays_original_payload_and_number (test_versions.VersionTests.test_failure_after_reservation_replays_original_payload_and_number) ... ok
+test_failure_after_version_insert_before_decision_recovers (test_versions.VersionTests.test_failure_after_version_insert_before_decision_recovers) ... ok
+test_history_diff_and_pagination (test_versions.VersionTests.test_history_diff_and_pagination) ... ok
+test_invalid_owner_shared_user_and_cross_question_versions_rejected (test_versions.VersionTests.test_invalid_owner_shared_user_and_cross_question_versions_rejected) ... ok
+test_lost_decision_reply_does_not_reapply_or_change_outcome (test_versions.VersionTests.test_lost_decision_reply_does_not_reapply_or_change_outcome) ... ok
+test_new_version_preserves_old_content_and_records_parent (test_versions.VersionTests.test_new_version_preserves_old_content_and_records_parent) ... ok
+test_operation_retries_preserve_first_payload_and_original_outcome (test_versions.VersionTests.test_operation_retries_preserve_first_payload_and_original_outcome) ... ok
+test_owner_selects_branch_without_creating_another_version (test_versions.VersionTests.test_owner_selects_branch_without_creating_another_version) ... ok
+test_parallel_edits_have_one_winner_and_unique_numbers (test_versions.VersionTests.test_parallel_edits_have_one_winner_and_unique_numbers) ... ok
+test_parallel_same_token_allocates_once (test_versions.VersionTests.test_parallel_same_token_allocates_once) ... ok
+test_receipt_committed_between_lookup_and_reservation_is_not_duplicated (test_versions.VersionTests.test_receipt_committed_between_lookup_and_reservation_is_not_duplicated) ... ok
+test_receipt_failure_then_later_request_completes_first_operation (test_versions.VersionTests.test_receipt_failure_then_later_request_completes_first_operation) ... ok
+test_restore_creates_new_version_with_two_distinct_sources (test_versions.VersionTests.test_restore_creates_new_version_with_two_distinct_sources) ... ok
+test_restore_from_stale_base_keeps_branch (test_versions.VersionTests.test_restore_from_stale_base_keeps_branch) ... ok
+test_selected_version_retry_after_later_edit_does_not_switch_back (test_versions.VersionTests.test_selected_version_retry_after_later_edit_does_not_switch_back) ... ok
+test_selection_conflict_is_persisted_and_replayed (test_versions.VersionTests.test_selection_conflict_is_persisted_and_replayed) ... ok
+test_snapshots_stay_fixed_and_initial_creation_retry_stays_v1 (test_versions.VersionTests.test_snapshots_stay_fixed_and_initial_creation_retry_stays_v1) ... ok
+test_stale_base_produces_branch_without_moving_current (test_versions.VersionTests.test_stale_base_produces_branch_without_moving_current) ... ok
+
+----------------------------------------------------------------------
+Ran 146 tests in 53.782s
+
+OK

@@ -1,0 +1,6 @@
+{% extends 'base.html' %}{% block content %}
+<section class="content"><div class="page-heading"><div><span class="eyebrow">把好问题，留给下一次</span><h1>题目库<span class="accent">。</span></h1><p class="muted">独立保存题目，保留每次变化；已有问卷使用自己的版本快照。</p></div><button id="create-question" class="button">＋ 新建题目</button></div>
+<div class="list-toolbar"><div class="tabs" role="tablist" aria-label="题目来源"><button class="tab active" data-library-tab="owned" role="tab" aria-selected="true">我的题目</button><button class="tab" data-library-tab="shared" role="tab" aria-selected="false">收到的共享</button></div><label class="search">查找题目<input id="library-search" type="search" placeholder="搜索已加载的题目"></label></div>
+<div id="library-list" class="survey-grid" aria-live="polite"></div><button id="library-more" class="button secondary" hidden>加载更多</button></section>
+<dialog id="content-dialog" class="large-dialog"><form id="content-form"><h2 id="content-heading">新建题目</h2><label>管理名称<input name="managementTitle" maxlength="200" placeholder="留空则使用题干"></label>{% include '_content_form.html' %}<label>修改说明<textarea name="changeNote" maxlength="5000" rows="2"></textarea></label><div class="actions"><button class="button" type="submit">保存题目</button><button type="button" class="button secondary" data-close-dialog>取消</button></div></form></dialog>
+{% endblock %}
